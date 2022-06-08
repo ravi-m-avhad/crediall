@@ -1,7 +1,7 @@
-##Inspiration
+## Inspiration
 To begin, there is **BNPL services are becoming increasingly popular around the world**, with more than a third of US customers having used them in some form. First and foremost, according to the BNPL provider split, the **largest difficulty is how to recoup lost ecommerce sales**. Third, the **growing popularity of younger consumers** and those with thin credit histories.
 
-##What it does
+## What it does
 We provide an **innovative approach to financing** here. Our solution is called **Crediall**, which drives the **decentralised consumer credit**. The concept is to introduce cryptocurrency into the **BNPL realm**. Cryptocurrency-accepting systems should be supported using the **BNPL approach**, just as the **TradFi** world is.
 
 
